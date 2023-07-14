@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.product_card {
+  width: 18em;
+  margin-bottom: 1em;
+}
+
+.cart_thumbnail {
+  width: 8em !important;
+  height: 8em !important;
+}
+
+.content {
+  padding: 5%;
+}
+
+.content-header {
+  padding-bottom: 0 !important;
+}
+
+.content-body {
+  padding-top: 0 !important;
+}
+
+.bottom-alert {
+  position: fixed !important; 
+  bottom: 5% !important;
+  width: 80% !important;
+}
+
+#cart-icon {
+  margin-right: 1em;
+  font-size: 1.5em;
+}
